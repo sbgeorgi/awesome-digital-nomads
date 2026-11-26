@@ -82,6 +82,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [Belastingcalculator](https://cerberostech.github.io/belastingcalculator/) - Free Dutch tax calculator in English and Dutch that estimates 2026 take-home pay, zzp (freelancer) income tax and box 3, including the 30% ruling for people relocating to the Netherlands.
 - [Tax Residency Days](https://taxresidencydays.com) - Free, no-signup calculator that runs one travel ledger against 15 countries' tax-residency day tests — US Substantial Presence Test, UK Statutory Residence Test, 183-day rules, plus the Schengen 90/180 stay limit — showing the exact arithmetic and official sources. 100% in-browser.
 - [Japan Take-Home Pay Calculator](https://setupinjapan.com/take-home-pay/) - Free 2026 net salary calculator for employees in Japan, showing income tax, resident tax, health insurance by prefecture, pension and employment insurance, and whether resident tax applies in your first year.
+- [Toolgu Netherlands Salary Tax Calculator](https://toolgu.com/finance/netherlands-tax-calculator) - Free Dutch gross-to-net salary calculator for 2026 and 2025 with holiday allowance, pension and the 30% ruling, plus monthly net salary tables and the proposed 2027 rates, running in the browser with no sign-up.
 
 ## Insurance
 
